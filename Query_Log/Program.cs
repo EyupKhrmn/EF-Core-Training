@@ -19,7 +19,7 @@ await context.Persons
    .ToListAsync();
 #endregion
 #region Filtreleme Nasıl Yapılır?
-
+//Belirli methodlarla ve veritabanı tablo sütunları ile sorgulama işlemi yapılabilir
 #endregion
 
 public class Person
